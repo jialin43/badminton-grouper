@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+.chrome-*/
+.chrome-dl/
+.pw-browsers/
+.playwright-browsers/
+screenshots/
+.DS_Store
+*.log
